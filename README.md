@@ -23,4 +23,5 @@
 图biaoge
 4.对 /unknown 给出开发中的提示，返回码 5xx
 当访问/unknown时返回页面提示not implemented
+![image](https://github.com/YlingMA/clougo-io/raw/master/image/图unknown.png)
 图unknown
