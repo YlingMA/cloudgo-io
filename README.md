@@ -8,7 +8,7 @@
 访问静态文件截图如下：
 
 
- ![image](https://github.com/YlingMA/cloudgo-io/tree/master/image/static.png)
+ ![image](https://github.com/YlingMA/cloudgo-io/blob/master/image/static.png)
  
 图static
 
