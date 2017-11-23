@@ -9,6 +9,8 @@
 访问静态文件截图如下：
 
 
+ ![image](https://github.com/YlingMA/cloudgo-io/raw/master/image/static.png)
+ 
 图static
 
 **2.支持简单 js 访问**
