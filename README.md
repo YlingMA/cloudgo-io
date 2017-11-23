@@ -18,6 +18,7 @@
  ![image](https://raw.githubusercontent.com/YlingMA/cloudgo-io/master/image/api-test.PNG)
  
 *图api-test*
+
 **3.提交表单，并输出一个表格**
 输入公司名和对应的销售信息，点击提交(submit)
 
