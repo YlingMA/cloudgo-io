@@ -1,4 +1,3 @@
-
 # cloudgo-io
 
 # 处理web程序的输入与输出
@@ -9,7 +8,7 @@
 访问静态文件截图如下：
 
 
- ![image](https://github.com/YlingMA/cloudgo-io/image/static.png)
+ ![image](https://github.com/YlingMA/cloudgo-io/master/image/static.png)
  
 图static
 
