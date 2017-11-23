@@ -9,7 +9,7 @@
 
 
  ![image](https://github.com/YlingMA/cloudgo-io/blob/master/image/static.png)
- 
+ ![image](https://raw.githubusercontent.com/YlingMA/cloudgo-io/master/image/static.PNG)
 图static
 
 **2.支持简单 js 访问**
